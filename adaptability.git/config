@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://mab015@bitbucket.org/zaynetcloud/adaptability.git
+	fetch = +refs/*:refs/*
+	mirror = true
+	pushurl = https://github.com/MAB015/Adaptability
